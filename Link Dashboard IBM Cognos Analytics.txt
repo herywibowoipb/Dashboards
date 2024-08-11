@@ -1,0 +1,3 @@
+Link Dashboard via IBM Cognos Analytics:
+
+https://ap2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FData%2BAnalysis%2Bof%2BTechnology%2BTrends&action=view&mode=dashboard&subView=model00000191323ba911_00000001
